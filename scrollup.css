@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500;700&display=swap');
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+.section-1{
+    height: 100vh;
+    background: url("../hinh/tree.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section-1 h1{
+    padding: 12px 20px;
+    color: white;
+    background-color: rgba(5, 45, 5, 0.873);
+    letter-spacing: 10px
+}
+.section-2{
+    padding: 100px;
+    background-color: rgb(3, 48, 3);
+}
+.section-2 h2{
+    text-align: center;
+    margin-bottom: 24px;
+    color: white;
+    letter-spacing: 10px
+}
+.section-2 p{
+    line-height: 200%;
+    color: white;
+    word-spacing: 3px;
+}
+.section-3{
+    height: 100vh;
+    background: url("../hinh/bee\ .jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section-3 h1{
+    padding: 12px 20px;
+    color: white;
+    letter-spacing: 10px
+}
+.section-4{
+    padding: 100px;
+    background-color: rgb(3, 48, 3);
+}
+.section-4 p{
+    color: white;
+    word-spacing: 3px;
+}
+.section-5{
+    height: 100vh;
+    background: url("../hinh/sea.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section-5 h1{
+    padding: 12px 20px;
+    color: white;
+    letter-spacing: 10px
+}
+.section-6{
+    padding: 100px;
+    background-color: rgb(3, 48, 3);
+}
+.section-6 p{
+    color: white;
+    word-spacing: 3px;
+}
+.section-7{
+    height: 100vh;
+    background: url("../hinh/tree.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section-7 h1{
+    padding: 12px 20px;
+    color: white;
+    background-color: rgba(5, 45, 5, 0.873);
+    letter-spacing: 10px;
+}
